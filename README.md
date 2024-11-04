@@ -82,7 +82,7 @@ To view all packages and dependencies used, check out the [Versions](versions/ve
   
   <tr>
     <td width="50%">
-      ![board-img](https://github.com/user-attachments/assets/02e45624-6c9f-40d8-bdde-a834bda8604d)
+      <img width="957" alt="2024-11-04_18-38" src="https://github.com/user-attachments/assets/a76878ed-230f-449b-b21d-41a7b455c8ef">
     </td>
     <td width="50%">
       <img width="957" alt="2024-11-04_18-38" src="https://github.com/user-attachments/assets/1582194b-a04f-4a13-9600-6c9e96481c3d">
