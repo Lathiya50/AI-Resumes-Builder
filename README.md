@@ -46,10 +46,10 @@ After deploying, navigate to **Vercel > Project Settings > Environment Variables
 Replace all occurrences of `localhost` with your Vercel domain URL, as shown below:
 
 ```plaintext
-KINDE_SITE_URL=https://cvbuild-ai.vercel.app/
-KINDE_POST_LOGOUT_REDIRECT_URL=https://cvbuild-ai.vercel.app/
-KINDE_POST_LOGIN_REDIRECT_URL=https://cvbuild-ai.vercel.app/dashboard
-NEXT_PUBLIC_APP_URL=https://cvbuild-ai.vercel.app/
+KINDE_SITE_URL=https://cvbuilder-ai.vercel.app/
+KINDE_POST_LOGOUT_REDIRECT_URL=https://cvbuilder-ai.vercel.app/
+KINDE_POST_LOGIN_REDIRECT_URL=https://cvbuilder-ai.vercel.app/dashboard
+NEXT_PUBLIC_APP_URL=https://cvbuilder-ai.vercel.app/
 ```
 
 These variables ensure that the app functions properly on your Vercel deployment.
