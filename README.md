@@ -78,21 +78,13 @@ To view all packages and dependencies used, check out the [Versions](versions/ve
 
 ---
 ## 📱 Screenshots
-<table>
-  
+<table>  
   <tr>
     <td width="50%">
-      <img width="957" alt="2024-11-04_18-38" src="https://github.com/user-attachments/assets/05fc0d7e-40af-4e06-9f6a-3303db9d4be1">
+       <img width="945" alt="2024-11-04_18-40" src="https://github.com/user-attachments/assets/ad3d0ee2-d4dc-4fe7-ade3-8d6fc100ede5">
     </td>
     <td width="50%">
       <img width="957" alt="2024-11-04_18-38" src="https://github.com/user-attachments/assets/1582194b-a04f-4a13-9600-6c9e96481c3d">
     </td>
-  </tr>
-
-   <tr>
-    <td width="50%">
-       <img width="945" alt="2024-11-04_18-40" src="https://github.com/user-attachments/assets/ad3d0ee2-d4dc-4fe7-ade3-8d6fc100ede5">
-    </td>
-  </tr>
- 
+  </tr> 
 </table>
