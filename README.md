@@ -27,7 +27,7 @@ Welcome to the **AI Resume Builder** repository! This project leverages cutting-
 
 This project is built using:
 
-- **Next.js**: For the fast, SEO-friendly frontend.
+- **Next.js**: For the fast, SEO-friendly front end.
 - **Hono**: Lightweight framework for building backend APIs.
 - **Drizzle ORM**: SQL ORM for easy database management.
 - **Gemini AI**: Integrating AI capabilities for building smarter resumes.
@@ -77,3 +77,22 @@ This will push your latest changes live on Vercel.
 To view all packages and dependencies used, check out the [Versions](versions/version.md) file.
 
 ---
+## 📱 Screenshots
+<table>
+  
+  <tr>
+    <td width="50%">
+      ![board-img](https://github.com/user-attachments/assets/02e45624-6c9f-40d8-bdde-a834bda8604d)
+    </td>
+    <td width="50%">
+      <img width="957" alt="2024-11-04_18-38" src="https://github.com/user-attachments/assets/1582194b-a04f-4a13-9600-6c9e96481c3d">
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%">
+       <img width="945" alt="2024-11-04_18-40" src="https://github.com/user-attachments/assets/ad3d0ee2-d4dc-4fe7-ade3-8d6fc100ede5">
+    </td>
+  </tr>
+ 
+</table>
